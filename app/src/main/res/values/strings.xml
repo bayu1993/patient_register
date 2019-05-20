@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Register Apps</string>
+    <string name="address_patient">Address</string>
+    <string name="gender">Gender</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="telp">Telephone</string>
+    <string name="patient_birth_date">Birth Date</string>
+    <string name="register_info">Please fill out the form below</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="logo">logo apps</string>
+    <string name="registration">Patient Registration</string>
+    <string name="no_data">No Data</string>
+    <string name="rc_menu">⋮</string>
+    <string name="delete">delete</string>
+    <string name="update">Update</string>
+    <string name="update_data">Update Patient Data</string>
+    <string name="register_new">Patient Registration</string>
+</resources>
